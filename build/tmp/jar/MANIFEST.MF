@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: jackson-databind-2.11.1.jar jackson-annotations-2.11.1.jar j
+ ackson-core-2.11.1.jar
+Main-Class: xyz.moonsod.youtubevideosearch.Main
+
