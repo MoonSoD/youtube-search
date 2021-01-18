@@ -15,7 +15,7 @@ public class Application {
         /*this.settings = new Settings();
         this.settings.loadSettings();*/
 
-        googleAPI = new GoogleAPI("AIzaSyCtika1GgOfmdCS1cM8-Vj0KrcJVgmO9iU");
+        googleAPI = new GoogleAPI("KEY");
     }
 
     public void start() {
